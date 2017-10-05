@@ -53,13 +53,13 @@ Notas de versionado
 
 A medida que se modifique cada ítem se especificará en este
 documento que se encuentra completado. Por último se realizará una prueba de
-corte y ensamblado para dar por cerradas las versiones propuestas. Mi idea es
+corte y ensamblado para dar por cerradas las versiones propuestas. La idea es
 realizar las modificaciones que se discutan en el foro de reprap y mandar a
-hacer un corte en mdf para probarlas, luego muy posiblemente convierta mi S-BOX
-original en una S-BOX-XL 
+hacer un corte en mdf para probarlas. 
+Luego se documentará una versión definitiva (ya sea con la version 2.5 o la 2) con el corte realizado en acero con su respectiva pintura al horno. 
 
 Adicionalmente por ahora las instrucciones y
-especificaciones van a estar en castellano por ahora.
+especificaciones van a estar en castellano por ahora, dado que todas las discuciones se originan en el foro de argentina, luego se podría generar una traducción al inglés.
  
 
 
