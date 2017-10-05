@@ -10,8 +10,8 @@ Este fork tiene como finalidad realizar una serie de
 modificaciones a la excelente maquina diseñada por @aleioavanevcp que se
 discuten en el hilo de Reprap argentina (link mas abajo)
 
-A medida que se modifiquen los archivos se va a ir
-especificando en cada revisión los cambios a realizar a saber:
+A medida que se modifiquen los archivos se van a ir
+especificando en cada revisión. Los cambios propuestos a realizar a son:
  
 
 Versión 2 ( S-BOX2)
@@ -101,6 +101,9 @@ AGREGAR TIPO DE LICENCIA DE USO
 * Alejandro Iovane [[@aleiovanevcp](https://github.com/aleiovanevcp)] - Creador 
 * Alejandro Daniel Cragnolini [[@alejandrocragnolini](https://github.com/alejandrocragnolini)] - Documentation
 * Karim Kfoure [[@karimkfoure](https://github.com/karimkfoure)] - Documentation
+
+#### Modificaciones Versión 2 y 2.5
+* Reprap Argentina [[http://forums.reprap.org/read.php?276,563440](http://forums.reprap.org/read.php?276,563440)]
 
 ---
 ![S-BOX](https://raw.githubusercontent.com/FabLabCordoba/S-Box-Core-XY/original/Doc/3D_Renders/front.png)
