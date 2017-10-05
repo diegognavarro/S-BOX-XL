@@ -45,7 +45,7 @@ Versión 2.5 (S-BOX-XL)
 dimensiones ampliadas en el eje X para montar una cama caliente de 20x30cm
 (también va a tener orificios para montar la cama de 20x20). Esto implica
 también un refuerzo en el eje X y posiblemente implique migrar ambos ejes a
-10mm.
+10mm. (Pendiente) Recién va a ser realizada una vez completados los puntos de la version 2, la idea es solamente extender 10 centímetros el diseño de la 2 y generar un soporte de cama con los nuevos orificios.
 
 
 
