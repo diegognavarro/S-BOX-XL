@@ -78,7 +78,8 @@ Adicionalmente por ahora las instrucciones yespecificaciones van a estar en cast
 
 
 ### LICENCIA
-AGREGAR TIPO DE LICENCIA DE USO
+CC BY-SA 3.0
+https://creativecommons.org/licenses/by-sa/3.0/
 
 #### Créditos S-BOX-XL
 S-BOX-XL está basada directamente sobre el diseño original de Alejandro Iovane de la S-BOX (https://github.com/aleiovanevcp/S-Box-Core-XY), asi commo la documentación original y el armado del repositorio corresponden a Karim Kfoure y Alejandro Daniel Cragnolini. 
