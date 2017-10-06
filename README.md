@@ -1,4 +1,4 @@
-# S-BOX V2 y V2.5 (XL): CoreXY 3D Printer
+# S-BOX-XL: CoreXY 3D Printer
 
 
 ATENCION ESTA VERSION SE ENCUENTRA EN DESARROLLO LEER los
@@ -80,11 +80,11 @@ Adicionalmente por ahora las instrucciones yespecificaciones van a estar en cast
 ### LICENCIA
 AGREGAR TIPO DE LICENCIA DE USO
 
+#### Créditos S-BOX-XL
+S-BOX-XL está basada directamente sobre el diseño original de Alejandro Iovane de la S-BOX (https://github.com/aleiovanevcp/S-Box-Core-XY), asi commo la documentación original y el armado del repositorio corresponden a Karim Kfoure y Alejandro Daniel Cragnolini. 
 
-### Créditos
-* Alejandro Iovane [[@aleiovanevcp](https://github.com/aleiovanevcp)] - Creador 
-* Alejandro Daniel Cragnolini [[@alejandrocragnolini](https://github.com/alejandrocragnolini)] - Documentation
-* Karim Kfoure [[@karimkfoure](https://github.com/karimkfoure)] - Documentation
+La versión S-BOX-XL fué actualizada según discusiones en el thread de RepRap Argentina:
 
-#### Modificaciones Versión 2 y 2.5
 * Reprap Argentina [[http://forums.reprap.org/read.php?276,563440](http://forums.reprap.org/read.php?276,563440)]
+
+
