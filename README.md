@@ -22,25 +22,42 @@ Versión 2 ( S-BOX2)
 
 
 * Posibilidad de tensionar los dos loops de correas de forma
-individual luego de que todo está montado. (pendiente)
+individual luego de que todo está montado. (modificado)
+
+![SBOX-XL](https://i.imgur.com/4Ty3gyB.png)
 
 * Retoque de dimensiones para permitir configuraciones mas
 flexibles (actualmente se estarían agregando 4 centímetros de ancho y 4 de
-profundidad) (pendiente)
+profundidad) (modificado)
+
+Nuevas dimensiones:
+El recorrido teórico del carro es de x = 315, Y=230 Z=275
+Las dimensiones de la maquina son: 528 x 410 x 420
+Varillas de 10 en eje X e Y
+Varillas de 12 en eje Z
 
 * Robustez del eje Z, se está convirtiendo el eje Z a barras
 de 12mm, con dos alternativas de transmisión (varilla roscada de 5mm y tornillo
-tipo Acme TR8) (pendiente)
+tipo Acme TR8) (modificado)
+
+Varillas de 12 en eje Z
+
+![SBOX-XL](https://i.imgur.com/wF26sgF.png)
+
 
 * Modificación del carro X para hacerlo compatible con
-diferentes diseños existentes de otras máquinas. (pendiente)
+diferentes diseños existentes de otras máquinas. (modificado)
+
+![SBOX-XL](https://i.imgur.com/nP22Bky.png)
+
 
 * Modificación del extrusor, el diseño de esa época quedo
 anticuado para algunos filamentos, se van a proporcionar diferentes orificios
 para montar algunas alternativas sugeridas, asi como el punto anterior
 permitiría el montaje de un conjunto liviano (por ejemplo un titan) en el carro
-X. (pendiente)
+X. (modificado)
 
+Se generaron dos orificios para montar dos nema 17 en la parte posterior, el nuevo carro permite montar extrusores directos.
 
 Versión 2.5 (S-BOX-XL)
 
@@ -50,7 +67,8 @@ dimensiones ampliadas en el eje X para montar una cama caliente de 20x30cm
 también un refuerzo en el eje X y posiblemente implique migrar ambos ejes a 10mm. (Pendiente) Recién va a ser realizada una vez completados los puntos de la version 2, la idea es solamente extender 10 centímetros el diseño de la 2 y generar un soporte de cama con los nuevos orificios.
 
 
-### En Principio posiblemente la versión 2.0 no se publique, dado que ya se está actualizando la version mk2 por Karim Kfoure y Alejandro Daniel Cragnolini por lo que esta rama luego quedará depurada como S-BOX-XL directamente uniendo las versiones 2.0 y 2.5
+### En Principio posiblemente la versión 2.0 no se publique, dado que ya se está actualizando la version mk2 por Karim Kfoure y Alejandro Daniel Cragnolini por lo que esta rama luego quedará depurada como S-BOX-XL directamente uniendo las versiones 2.0 y 2.5 DEFINITIVO SE PASA A LA VERSION XL, Para dimensiones de 20x20 ver el fork de Karim y alejandro.
+
 
 Notas de versionado 
 A medida que se modifique cada ítem se especificará en estedocumento que se encuentra completado. Por último se realizará una prueba decorte y ensamblado para dar por cerradas las versiones propuestas. La idea esrealizar las modificaciones que se discutan en el foro de reprap y mandar ahacer un corte en mdf para probarlas. Luego se documentará una versión definitiva (ya sea con la version 2.5 o la 2) con el corte realizado en acero con su respectiva pintura al horno. 
