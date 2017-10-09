@@ -13,6 +13,8 @@ discuten en el hilo de Reprap argentina (link mas abajo)
 A medida que se modifiquen los archivos se van a ir
 especificando en cada revisión. Los cambios propuestos a realizar a son:
  
+ 
+ ![S-BOX](https://raw.githubusercontent.com/diegognavarro/S-Box-Core-XY/devel/Doc/Captura de pantalla 2017-10-09 a la(s) 18.42.41.png)
 
 Versión 2 ( S-BOX2)
 
