@@ -14,7 +14,8 @@ A medida que se modifiquen los archivos se van a ir
 especificando en cada revisión. Los cambios propuestos a realizar a son:
  
  
- ![S-BOX](https://raw.githubusercontent.com/diegognavarro/S-Box-Core-XY/blob/devel/Doc/Captura%20de%20pantalla%202017-10-09%20a%20la(s)%2018.42.41.png)
+![SBOX-XL](https://i.imgur.com/tgVSHT1.png)
+
 
 Versión 2 ( S-BOX2)
 
