@@ -103,10 +103,8 @@ CC BY-SA 3.0
 https://creativecommons.org/licenses/by-sa/3.0/
 
 #### Créditos S-BOX-XL
-S-BOX-XL está basada directamente sobre el diseño original de Alejandro Iovane de la S-BOX (https://github.com/aleiovanevcp/S-Box-Core-XY), asi commo la documentación original y el armado del repositorio corresponden a Karim Kfoure y Alejandro Daniel Cragnolini. 
 
-La versión S-BOX-XL fué actualizada según discusiones en el thread de RepRap Argentina:
-
+La versión S-BOX-XL está actualizada según discusiones en el thread de RepRap Argentina:
 * Reprap Argentina [[http://forums.reprap.org/read.php?276,563440](http://forums.reprap.org/read.php?276,563440)]
 
-
+S-BOX-XL está basada directamente sobre el diseño original de Alejandro Iovane de la S-BOX (https://github.com/aleiovanevcp/S-Box-Core-XY), asi commo la documentación original y el armado del repositorio corresponden a Karim Kfoure y Alejandro Daniel Cragnolini. 
