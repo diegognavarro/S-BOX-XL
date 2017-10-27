@@ -17,7 +17,7 @@ especificando en cada revisión. Los cambios propuestos a realizar a son:
 ![SBOX-XL](https://i.imgur.com/tgVSHT1.png)
 
 
-Versión 2 ( S-BOX2)
+Versión 2.5 ( S-BOX-XL)
 
 
 
@@ -26,13 +26,13 @@ individual luego de que todo está montado. (modificado)
 
 ![SBOX-XL](https://i.imgur.com/4Ty3gyB.png)
 
-* Retoque de dimensiones para permitir configuraciones mas
-flexibles (actualmente se estarían agregando 4 centímetros de ancho y 4 de
-profundidad) (modificado)
+* Ampliacion de las dimensiones para permitir configuraciones mas
+flexibles de carro y soporte de cama calientes de 20x20 o 20x30. (modificado)
+
 
 Nuevas dimensiones:
-El recorrido teórico del carro es de x = 315, Y=230 Z=275
-Las dimensiones de la maquina son: 528 x 410 x 420
+El recorrido teórico del carro es de x = 305, Y=230 Z=275
+*** ACTUALIZAR!!! Las dimensiones de la maquina son: 528 x 410 x 420
 Varillas de 10 en eje X e Y
 Varillas de 12 en eje Z
 
@@ -57,17 +57,7 @@ para montar algunas alternativas sugeridas, asi como el punto anterior
 permitiría el montaje de un conjunto liviano (por ejemplo un titan) en el carro
 X. (modificado)
 
-Se generaron dos orificios para montar dos nema 17 en la parte posterior, el nuevo carro permite montar extrusores directos.
-
-Versión 2.5 (S-BOX-XL)
-
-* Mismos cambios que la versión 2 pero con
-dimensiones ampliadas en el eje X para montar una cama caliente de 20x30cm
-(también va a tener orificios para montar la cama de 20x20). Esto implica
-también un refuerzo en el eje X y posiblemente implique migrar ambos ejes a 10mm. (Pendiente) Recién va a ser realizada una vez completados los puntos de la version 2, la idea es solamente extender 10 centímetros el diseño de la 2 y generar un soporte de cama con los nuevos orificios.
-
-
-### En Principio posiblemente la versión 2.0 no se publique, dado que ya se está actualizando la version mk2 por Karim Kfoure y Alejandro Daniel Cragnolini por lo que esta rama luego quedará depurada como S-BOX-XL directamente uniendo las versiones 2.0 y 2.5 DEFINITIVO SE PASA A LA VERSION XL, Para dimensiones de 20x20 ver el fork de Karim y alejandro.
+Dado que la maquina en general se opera por delante, se considera mas "comodo" (es subjetivo pero queda asi) que el extrusor (o posibles 2 extrusores) queden en los laterales de la maquina en vez de la parte posterior. En los cortes laterales se va a dejar la posibilidad de montar un soporte para rollos o una varilla para usarla de soporte, asi como un sector para montar el extrusor. Esto da flexibilidad de usar ambos, uno solo o directamente montar un extrusor sobre el carro que ahora es mas grande y lo soportaría.
 
 
 Notas de versionado 
