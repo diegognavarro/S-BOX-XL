@@ -3,7 +3,7 @@
 
 by "tatubias" (http://forums.reprap.org/profile.php?276,37019) (es la guia de la S_BOX original, se va a actualizar con la version nueva)
 
-Listado de componentes:
+### Listado de componentes:
 
 (falta detallar)
 
