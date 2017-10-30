@@ -75,7 +75,7 @@ https://creativecommons.org/licenses/by-sa/3.0/
 
 #### Créditos S-BOX-XL
 
-La versión S-BOX-XL está actualizada por mi (Diego Navarro) según discusiones en el thread de RepRap Argentina, principalmente con colaboracin de Victor Di Rienzo y Nicolas Arias:
+La versión S-BOX-XL está actualizada por mi según discusiones en el thread de RepRap Argentina
 
 * Reprap Argentina [[http://forums.reprap.org/read.php?276,563440](http://forums.reprap.org/read.php?276,563440)]
 
