@@ -8,14 +8,23 @@ by "tatubias" (http://forums.reprap.org/profile.php?276,37019) (es la guia de la
 (falta completar)
 
 scs10uu X 7
+
 lmk12luu x 2
+
 shf10 x 4 (opcional)
+
 shf12 x 4 (opcional)
+
 endstop mecánicos x 3
+
 2 x Barras 10mm de 469,5mm
+
 2 x Barras 10mm de aprox 433 mm (contando los shf sino restar 20 para dejar al raz y que queden clavadas)
+
 2 x Barras 12mm de aprox 400 mm (si se montan los shf de lado interno, sino 426)
+
 12 x Rodamientos 624Z o ZZ
+
 
 
 ### Partes impresas
