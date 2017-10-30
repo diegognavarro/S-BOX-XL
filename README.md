@@ -31,6 +31,7 @@ Varillas de 12 en eje Z
 * Robustez del eje Z, se está convirtiendo el eje Z a barras
 de 12mm, con dos alternativas de transmisión (varilla roscada de 5mm y tornillo
 tipo Acme TR8)
+NOTA: Dado que el eje "cuelga" se recomienda el uso de acoples que no se "estiren", con tornillos de buena calidad se puede usar un acople rígido y en una versión economica con varilla roscada de 5mm es preferible usar una manguera de acuario.
 
 Varillas de 12 en eje Z
 
