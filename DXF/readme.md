@@ -4,7 +4,7 @@ SBOX_XL_v2.5_DXF.dxf
 
 Listado de revisiones:
 
-2.5 - Incial luego de la conversion de la verión 1 original
+2.5 - Incial luego de la conversion de la verisón 1 original
 
 
 ### Corte laser puertas/laterales/etc.
