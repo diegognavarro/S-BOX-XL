@@ -10,9 +10,13 @@ Listado de componentes:
 ### Partes impresas
 
 624_WASHER_X24 - Arandela impresa para evitar que la correa se salga del eje. Cantidad 24
+
 SPACER_LOOP_B_X6 - Separador para el loop B - Cantidad 6
+
 X_ENDSTOP_HIT_X1 - Cantidad 1 (se podria estirar para limitar el movimiento)
+
 Y_ENDSTOP_HIT_X1 - Cantidad 1 (se podria estirar para limitar el movimiento)
+
 Z_ENDSTOP_SPACER_X1 - Cantidad 1
 
 
