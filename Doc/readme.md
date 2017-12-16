@@ -11,9 +11,9 @@ scs10uu X 7
 
 lmk12luu x 2
 
-shf10 x 4 (opcional)
+shf10 x 8 
 
-shf12 x 4 (opcional)
+shf12 x 4 
 
 endstop mecánicos x 3
 
